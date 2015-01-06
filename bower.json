@@ -1,6 +1,6 @@
 {
   "name": "ng-flow",
-  "version": "2.5.1",
+  "version": "2.5.2",
   "ignore": [
     "**/.*",
     "test",
@@ -15,7 +15,7 @@
   ],
   "main": "./dist/ng-flow.js",
   "dependencies": {
-    "angular": "~1",
+    "angular": "~1.2",
     "flow.js": "~2"
   },
   "devDependencies": {
