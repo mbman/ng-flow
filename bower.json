@@ -15,7 +15,7 @@
   ],
   "main": "./dist/ng-flow.js",
   "dependencies": {
-    "angular": "~1.2",
+    "angular": "~1.3",
     "flow.js": "~2"
   },
   "devDependencies": {
